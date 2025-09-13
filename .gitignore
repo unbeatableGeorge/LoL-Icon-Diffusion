@@ -1,0 +1,55 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert
+
+# Logs
+*.log
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.yaml
+*.yml
+*.pickle
+*.pkl
+*.h5
+*.npz
+*.npy
+
+# Large binaries / datasets
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.7z
+*.rar
+
+# Model weights
+*.ckpt
+*.safetensors
+*.pt
+*.pth
+
+# OS / IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Build / output
+build/
+dist/
+*.egg-info/
