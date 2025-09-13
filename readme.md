@@ -11,7 +11,7 @@ collect League of Legends profile icons → filter with CLIP + binary head → g
 
 ---
 
-## 🔥 Sample Results (placeholders — replace with your outputs)
+## 🔥 Sample Results
 
 > Showcase your generated images with their text prompts
 
@@ -28,14 +28,13 @@ More samples in `assets/gallery/`
 
 ## 🎨 More Samples
 
-| ![](assets/gallery/sample_1.png)  | ![](assets/gallery/sample_2.png) | ![](assets/gallery/sample_3.png)  |
-|-----------------------------------|----------------------------------|-----------------------------------|
-| ![](assets/gallery/sample_4.png)  | ![](assets/gallery/sample_5.png) | ![](assets/gallery/sample_6.png)  |
-| ![](assets/gallery/sample_7.png)  | ![](assets/gallery/sample_8.png) | ![](assets/gallery/sample_9.png)  |
-| ![](assets/gallery/sample_10.png) | ![](assets/gallery/sample_11.png)| ![](assets/gallery/sample_12.jpg) |
-| ![](assets/gallery/sample_13.jpg) | ![](assets/gallery/sample_14.png)| ![](assets/gallery/sample_15.png) |
+| <img src="assets/gallery/sample_1.png" width="200" height="200"/>  | <img src="assets/gallery/sample_2.png" width="200" height="200"/> | <img src="assets/gallery/sample_3.png" width="200" height="200"/>  |
+|--------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------|
+| <img src="assets/gallery/sample_4.png" width="200" height="200"/>  | <img src="assets/gallery/sample_5.png" width="200" height="200"/> | <img src="assets/gallery/sample_6.png" width="200" height="200"/>  |
+| <img src="assets/gallery/sample_7.png" width="200" height="200"/>  | <img src="assets/gallery/sample_8.png" width="200" height="200"/> | <img src="assets/gallery/sample_9.png" width="200" height="200"/>  |
+| <img src="assets/gallery/sample_10.png" width="200" height="200"/> | <img src="assets/gallery/sample_11.png" width="200" height="200"/>| <img src="assets/gallery/sample_12.jpg" width="200" height="200"/> |
+| <img src="assets/gallery/sample_13.jpg" width="200" height="200"/> | <img src="assets/gallery/sample_14.png" width="200" height="200"/>| <img src="assets/gallery/sample_15.png" width="200" height="200"/> |
 
----
 
 ## 🧭 Pipeline Overview
 
