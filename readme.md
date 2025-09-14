@@ -15,14 +15,13 @@ collect League of Legends profile icons → filter with CLIP + binary head → g
 
 > Showcase your generated images with their text prompts
 
-
-| Text Prompt | Generated Image                           |
-|-------------|-------------------------------------------|
-| *"a <lolicon> League of Legends style icon of a cartoon character with a cat face and a blue hair"* | <img src="assets/gen_1.png" width="120"/> |
-| *"a <lolicon> League of Legends style icon of a dark knight in heavy armor"* | <img src="assets/gen_2.png" width="120"/> |
-| *"a <lolicon> League of Legends style icon of a radiant archer with golden bow"* | <img src="assets/gen_3.png" width="120"/> |
-| *"a <lolicon> League of Legends style icon of a cybernetic assassin with glowing red eyes"* | <img src="assets/gen_4.png" width="120"/> |
-| *"a <lolicon> League of Legends style icon of a cartoon character with blue hair and a purple dress"* | <img src="assets/gen_5.png" width="120"/> |
+| Text Prompt | Generated Image |
+|-------------|-----------------|
+| *"a &lt;lolicon&gt; League of Legends style icon of a cartoon character with a cat face and a blue hair"* | <img src="assets/gen_1.png" width="120"/> |
+| *"a &lt;lolicon&gt; League of Legends style icon of a dark knight in heavy armor"* | <img src="assets/gen_2.png" width="120"/> |
+| *"a &lt;lolicon&gt; League of Legends style icon of a radiant archer with golden bow"* | <img src="assets/gen_3.png" width="120"/> |
+| *"a &lt;lolicon&gt; League of Legends style icon of a cybernetic assassin with glowing red eyes"* | <img src="assets/gen_4.png" width="120"/> |
+| *"a &lt;lolicon&gt; League of Legends style icon of a cartoon character with blue hair and a purple dress"* | <img src="assets/gen_5.png" width="120"/> |
 
 More samples in `assets/gallery/`
 
